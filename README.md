@@ -5,7 +5,7 @@ Blender is a free and open-source 3D computer graphics software toolset used for
 
 # Infinite Loops
 
-Infinite loops are a long term for a repeating seamless video clip which makes the user feels as infinite. These clips are used a gifs and desktop backgrounds.
+Infinite loops are a long term for a repeating seamless video clip which makes the user feels as infinite. These have clips are used as gifs and desktop backgrounds.
 
 ![2020-05-27 (2)](https://user-images.githubusercontent.com/71865643/118812920-44ad9d80-b8cc-11eb-8391-c916294bcf3e.png)
 
